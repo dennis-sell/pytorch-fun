@@ -1,4 +1,7 @@
 # Pytorch examples.
-All in 1.0.
+All in Pytorch v1.0.
+Main development environment in Google's Colab.
 
-- Transfer Learning tutorial
+Online Tutorials:
+  - Pytorch website's transfer learning for bees vs ants
+  - Pytorch website's adversarial examples for MNIST dataset
